@@ -1,0 +1,120 @@
+.cuadro {
+	
+	width: 300px;
+	height: 180px;
+	background: black;
+	opacity: 0.9;
+	color: #fff;
+	
+
+
+}
+.cuadro2 {
+	
+	width: 300px;
+	height: 50px;
+	background: black;
+	opacity: 0.9;
+	color: #fff;
+	
+
+
+}
+
+
+.centrado {
+	height:500px;
+	
+	left: -55px;
+	top: -10px;
+
+
+}
+.centrado2 {
+	height:300px;
+	display: flex; 
+	justify-content: center;
+	align-items: center;
+	left: -375px;
+	top: -350px;
+
+
+}
+.centrado3 {
+	height:150px;
+	display: flex; 
+	justify-content: center;
+	align-items: center;
+	left: -375px;
+	top: -375px;
+
+
+}
+.centrado4 {
+	display: flex; 
+	justify-content: center;
+	align-items: center;
+	top: 110px;
+
+
+}
+.centrado5 {
+	height:100px;
+	display: flex; 
+	justify-content: center;
+	align-items: center;
+	left: -375px;
+	top: -350px;
+
+
+}
+.centrado6 {
+	height:150px;
+	display: flex; 
+	justify-content: center;
+	align-items: center;
+	left: 100px;
+	top: -1070px;
+
+
+}
+.centrado7 {
+	height:150px;
+	display: flex; 
+	justify-content: center;
+	align-items: center;
+	left: 100px;
+	top: -1025px;
+
+
+}
+
+.centrado8 {
+	display: flex; 
+	justify-content: center;
+	align-items: center;
+	top: -60px;
+
+
+}
+
+
+h1 {
+	text-align: center;
+	
+}
+
+
+body {
+	background: url(fondo.jpg) no-repeat;
+
+
+}
+
+
+
+
+
+
+
+
